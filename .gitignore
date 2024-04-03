@@ -1,5 +1,5 @@
 #Directory
 .terraform
-
+.terraform.lock.hcl
 #file
 *.tf
