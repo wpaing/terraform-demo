@@ -1,0 +1,5 @@
+#Directory
+.terraform
+
+#file
+*.tf
